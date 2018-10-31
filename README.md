@@ -1,3 +1,3 @@
 # lab_io
-zmiana_lokal
+zmiania_git
 31.10
