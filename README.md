@@ -1,3 +1,3 @@
 # lab_io
-Angelika Szyszka
+zmiania_git
 31.10
