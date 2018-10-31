@@ -1,3 +1,3 @@
 # lab_io
-Angelika Szyszka
+zmiana_lokal
 31.10
